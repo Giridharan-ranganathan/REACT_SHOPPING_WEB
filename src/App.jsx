@@ -89,7 +89,7 @@ const data = [
       </ul>
     </div>
     <div className='col-lg-3'>
-    <button type="button" class="btn btn-outline-warning"><span><i class="fa-solid fa-cart-shopping"></i></span> Cart <span >{CurrentCount}</span></button>
+    <button type="button" class="btn btn-outline-warning"><span><i class="fa-solid fa-cart-shopping"></i></span> Cart <span > - {CurrentCount}</span></button>
       </div>
   </div>
 </nav>
